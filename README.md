@@ -1,7 +1,7 @@
 # Hirst Painting
 > This project is capable of generating million dollar pieces of artwork!
 
-Extracts colors from an image and creates a Damien Hirst-inspired spot painting.
+This project extracts colors from an image and then creates a Damien Hirst-inspired spot painting.
 
 ## Installing / Getting started
 
