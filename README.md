@@ -17,10 +17,6 @@ This will install the colorgram.py module used for extracting colors from images
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - Repository: https://github.com/jupetta29/hirst_painting
 - Modules/Packages Used:
   - colorgram.py: https://pypi.org/project/colorgram.py/
