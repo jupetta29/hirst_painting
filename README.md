@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jupetta29/hirst_painting/master/media/hirst_painting_logo.png"/>
+  <img src="https://raw.githubusercontent.com/jupetta29/hirst_painting/master/media/logo.png"/>
 </p>
 
 # Hirst Painting
