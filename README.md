@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jupetta29/hirst_painting/master/media/hirst_painting_logo.png"/>
+</p>
+
 # Hirst Painting
 > This project is capable of generating million dollar pieces of artwork!
 
